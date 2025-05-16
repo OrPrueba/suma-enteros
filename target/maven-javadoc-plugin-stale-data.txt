@@ -1,0 +1,43 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/Users/alejandracharcape/Desktop/suma-enteros/src/main/java:/Users/alejandracharcape/Desktop/suma-enteros/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/alejandracharcape/Desktop/suma-enteros/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'suma-enteros 1.0.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/alejandracharcape/Desktop/suma-enteros/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'suma-enteros 1.0.0-SNAPSHOT API'
+com.example
+/Users/alejandracharcape/Desktop/suma-enteros/src/main/java/.DS_Store = 1746985519513
+/Users/alejandracharcape/Desktop/suma-enteros/src/main/java = 1746985505000
+/Users/alejandracharcape/Desktop/suma-enteros/target/generated-sources/annotations = 1746989376350
+/Users/alejandracharcape/Desktop/suma-enteros/target/apidocs/tag-search-index.js = 1746989379372
+/Users/alejandracharcape/Desktop/suma-enteros/target/apidocs/overview-tree.html = 1746989379360
+/Users/alejandracharcape/Desktop/suma-enteros/target/apidocs/module-search-index.js = 1746989379370
+/Users/alejandracharcape/Desktop/suma-enteros/target/apidocs/index.html = 1746989379383
+/Users/alejandracharcape/Desktop/suma-enteros/target/apidocs/package-search-index.js = 1746989379371
+/Users/alejandracharcape/Desktop/suma-enteros/target/apidocs/index-all.html = 1746989379379
+/Users/alejandracharcape/Desktop/suma-enteros/target/apidocs/allpackages-index.html = 1746989379370
+/Users/alejandracharcape/Desktop/suma-enteros/target/apidocs/member-search-index.js = 1746989379372
+/Users/alejandracharcape/Desktop/suma-enteros/target/apidocs/help-doc.html = 1746989379395
+/Users/alejandracharcape/Desktop/suma-enteros/target/apidocs/element-list = 1746989379338
+/Users/alejandracharcape/Desktop/suma-enteros/target/apidocs/search.html = 1746989379382
+/Users/alejandracharcape/Desktop/suma-enteros/target/apidocs/allclasses-index.html = 1746989379368
+/Users/alejandracharcape/Desktop/suma-enteros/target/apidocs/type-search-index.js = 1746989379371

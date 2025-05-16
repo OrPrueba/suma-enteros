@@ -6,6 +6,10 @@ public class Suma {
         return a + b;
     }
 
+    public static int restar(int a, int b) {
+        return a - b;
+    }
+
     // Puedes eliminar el método main si solo quieres la funcionalidad de suma
     // y no una aplicación ejecutable desde esta clase.
     /*
